@@ -1,0 +1,40 @@
+ul,
+li {
+  list-style-type: none;
+}
+
+.clicavel {
+  cursor: pointer;
+}
+
+.DeleteButton {
+  color:white;
+  font-weight: bold;
+  background-color: red;
+  margin-right: 1.5rem;
+  border-radius: 50px;
+}
+
+* {
+  font-family: Helvetica, sans-serif;
+
+}
+
+
+body {
+  background-color: hsl(0, 0%, 87%);
+}
+
+.container {
+  color: white;
+  width: 300px;
+  margin-top: auto;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 20px;
+  display: flexbox;
+  
+  border-radius: 8px;
+  background: hsl(0, 0%, 55%);;
+  
+}
